@@ -1,0 +1,67 @@
+[
+    {
+        "ID": "123456",
+        "cover": "https://media.foundit.in/career-advice/wp-content/uploads/2020/04/resume-for-software-developer.jpg",
+        "title": "Secrets of the Lost Kingdom",
+        "author": "Amanda J. Carter",
+        "author_img": "https://c4.wallpaperflare.com/wallpaper/749/726/532/hollywood-celebrities-male-celebrities-wallpaper-preview.jpg",
+        "posted_date": "March 15, 2024",
+        "reading_time": "12 minutes",
+        "hashtags": [
+            "#adventure",
+            "#mystery"
+        ]
+    },
+    {
+        "ID": "789012",
+        "cover": "https://miro.medium.com/v2/resize:fit:1129/1*-za8S8j0FQi1qTsRI8MvXA.jpeg",
+        "title": "Echoes of Eternity",
+        "author": "Michael S. Thompson",
+        "author_img": "https://media.istockphoto.com/id/1286225211/photo/portrait-of-a-handsome-young-man-posing-at-home.webp?b=1&s=170667a&w=0&k=20&c=jJmLZNqc9LkLz3MCTXgGQefEQIm8hk6-sPqpGFScNeI=",
+        "posted_date": "March 18, 2024",
+        "reading_time": "20 minutes",
+        "hashtags": [
+            "#fantasy",
+            "#time_travel"
+        ]
+    },
+    {
+        "ID": "345678",
+        "cover": "https://www.shutterstock.com/image-photo/male-programmer-working-on-desktop-600nw-645324130.jpg",
+        "title": "Beyond the Horizon",
+        "author": "Sarah K. Wilson",
+        "author_img": "https://apprendre-la-photo.fr/wp-content/uploads/2011/06/Laurent-Breillat_web-610x407.jpg",
+        "posted_date": "March 20, 2024",
+        "reading_time": "15 minutes",
+        "hashtags": [
+            "#science_fiction",
+            "#exploration"
+        ]
+    },
+    {
+        "ID": "901234",
+        "cover": "https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2023/06/person-at-computer.jpeg.jpg",
+        "title": "Whispers in the Dark",
+        "author": "Daniel R. Evans",
+        "author_img": "https://media.istockphoto.com/id/1171169099/photo/man-with-crossed-arms-isolated-on-gray-background.jpg?s=612x612&w=0&k=20&c=_vETAeGc6ooeOx-WZYFyZdUUL5hyDPrvakBpjytN7lM=",
+        "posted_date": "March 16, 2024",
+        "reading_time": "18 minutes",
+        "hashtags": [
+            "#horror",
+            "#suspense"
+        ]
+    },
+    {
+        "ID": "567890",
+        "cover": "https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/12/tes_gen_blog_post_071921_1233182206-1-800x412.jpg",
+        "title": "Starlight Serenade",
+        "author": "Emily L. Parker",
+        "author_img": "https://img.freepik.com/free-photo/mand-holding-cup_1258-340.jpg?size=626&ext=jpg&ga=GA1.1.735520172.1710892800&semt=ais",
+        "posted_date": "March 19, 2024",
+        "reading_time": "25 minutes",
+        "hashtags": [
+            "#romance",
+            "#drama"
+        ]
+    }
+]
