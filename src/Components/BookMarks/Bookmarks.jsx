@@ -1,9 +1,12 @@
 import React from 'react';
 import Bookmark from '../Bookmark/Bookmark';
 
-const Bookmarks = ({bookmarks}) => {
+const Bookmarks = ({bookmarks, readingTime}) => {
     return (
-        <div className='md:w-1/3 bg-gray-300 ml-4 mt-2 pt-4'>
+        <div className='md:w-1/3 bg-gray-300 ml-4 mt-2 pt-4 space-y-6'>
+            <div>
+                <h3 className='text-4xl text-center'>Reading Time: {readingTime}</h3>
+            </div>
             <h5 className='text-3xl text-center'>Bookmarks: {bookmarks.length}</h5>
             {
                 bookmarks.map(bookmark => <Bookmark 
